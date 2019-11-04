@@ -27,3 +27,5 @@ demo03   集合不安全类
 demo04   Java锁````````
 
 demo05   CountDownLatch/CyclicBarrier/Semaphore
+
+demo06   阻塞队列

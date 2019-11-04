@@ -5,7 +5,7 @@
 
 每日学习，每日更新
 
-学习方法：
+#学习方法：
 
 1、故障现象
 
@@ -16,14 +16,14 @@
 4、优化建议（同样的错误不犯第 2 次）
 
 
-目录
+#目录
 
-demo01 volatile
+demo01   volatile
 
-demo02 CAS
+demo02   CAS
 
-demo03 集合不安全类
+demo03   集合不安全类
 
-demo04 Java锁
+demo04   Java锁````````
 
-demo05 CountDownLatch/CyclicBarrier/Semaphore
+demo05   CountDownLatch/CyclicBarrier/Semaphore

@@ -18,6 +18,8 @@
 
 # 目录
 
+# JUC
+
 demo01   volatile
 
 demo02   CAS
@@ -29,3 +31,13 @@ demo04   Java锁````````
 demo05   CountDownLatch/CyclicBarrier/Semaphore
 
 demo06   阻塞队列 
+
+demo07   线程池
+
+demo08   线程池配置
+
+demo09   死锁
+
+# JVM+GC
+
+

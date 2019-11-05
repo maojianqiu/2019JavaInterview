@@ -1,12 +1,9 @@
-package demo06;
+package JUC.demo06;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.concurrent.locks.Condition;
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
 
 class MyResource{//资源类
     private volatile boolean FLAG = true;//默认开启，进行生产+消费。

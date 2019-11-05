@@ -1,4 +1,4 @@
-package demo01;
+package JUC.demo01;
 
 public class ReSortSeqDemo {
     int a=0;

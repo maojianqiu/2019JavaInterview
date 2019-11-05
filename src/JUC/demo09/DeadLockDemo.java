@@ -1,4 +1,4 @@
-package demo10;
+package JUC.demo09;
 
 
 class HoldLockThread implements Runnable{

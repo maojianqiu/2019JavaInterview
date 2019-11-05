@@ -1,4 +1,4 @@
-package demo04;
+package JUC.demo04;
 
 /**
  * 可重入锁
